@@ -1,5 +1,7 @@
 # Red Mage Creative Collective - Code of Conduct
 
+***Last Updated: Nov 24, 2023***
+
 ## Purpose
 
 A primary goal of Red Mage Creative Collective is to be inclusive to the largest number of creatives, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
